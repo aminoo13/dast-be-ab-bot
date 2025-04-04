@@ -1,0 +1,28 @@
+[
+  {
+    "id": 1,
+    "latitude": 33.97817,
+    "longitude": 51.42559,
+    "features": [
+      "🚻 تمیز بودن",
+      "💧 آب دستشویی دارد",
+      "🧼 صابون دارد",
+      "💡 روشنایی خوب",
+      "🆓 رایگان است"
+    ],
+    "photo_file_id": "AgACAgQAAxkBAAICBmfnzr4xzIj_T9EW8fLpXSPlO9E8AAKdyjEb0kBAUz22bL1Z0wg3AQADAgADeQADNgQ",
+    "address": "دستشویی مجتمع تجاری امیرکبیر"
+  },
+  {
+    "id": 2,
+    "latitude": 33.989805,
+    "longitude": 51.448793,
+    "features": [
+      "🚻 تمیز بودن",
+      "💧 آب دستشویی دارد",
+      "🆓 رایگان است"
+    ],
+    "photo_file_id": "AgACAgQAAxkBAAICuWfoRJf9KbeZHm_TD9se57SCwHapAALoyTEbTfNAU0KW9QABd15prwEAAwIAA3kAAzYE",
+    "address": "دستشویی پاساژ صفویه"
+  }
+]
